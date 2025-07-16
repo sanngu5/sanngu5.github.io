@@ -11,7 +11,7 @@ I'm a MS-PhD Student at the Hanyang University.
 
 
 
-My research interests are in image generative models for 
+My research interests are in Image Generation and Editing.
 
 
 
