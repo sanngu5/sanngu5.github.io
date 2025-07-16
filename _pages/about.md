@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MS-PhD Student at the Hanyang University.
+## About Me
 
+I'm a MS-PhD integrated student at Hanyang University [Spatial AI Lab](https://sail.hanyang.ac.kr/) advised by Je Hyeong Hong.
+Please feel free to reach out to me for discussion!
 
+---
 
-My research interests are in Image Generation and Editing.
+## Research Interests
 
+- Customization, Generative Models
 
-
-I'm currently working with Hyundai Motor Company for scarce image augmentation using generative models for the manufacturing AI. 
+---
