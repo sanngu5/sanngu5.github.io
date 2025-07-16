@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "my_profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Jongwoo Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Generative AI and Image Editing"
+  location         : "Seoul, Korea"
+  employer         : "Hanyang University"
   uri              : # URL
   email            : "none@example.org" 
 
